@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I am Harshal  👋
 
+I am a computer vision - deep learning engineer.
+I showcase some of my work here
 <!--
 **bharshal/bharshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
