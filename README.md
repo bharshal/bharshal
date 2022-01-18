@@ -1,7 +1,8 @@
 ### Hi there I am Harshal  👋
 I showcase some of my projects here.  
+I currently study Computer Vision at the University of Michigan - Ann Arbor.  
 
-I study Computer Vision at the University of Michigan - Ann Arbor. My current research topics include GANs, Transformers and modern CNNs. My aim is to create efficient models which can be easily deployed in real life. I have expertise in the full flow of DL application creation from R&D, POC, data creation/cleaning, testing and deployment. I have worked as a Deep Learning Engineer for almost 3 years before starting my Masters.
+My current research topics include GANs, Transformers and modern CNNs. My aim is to create efficient models which can be easily deployed in real life. I have expertise in the full flow of DL application creation from R&D, POC, data creation/cleaning, testing and deployment. I have worked as a Deep Learning Engineer for almost 3 years before starting my Masters.
 
 
 <!--
