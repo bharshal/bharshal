@@ -1,7 +1,9 @@
 ### Hi there I am Harshal  👋
+I showcase some of my projects here.  
 
-I am a computer vision - deep learning engineer.
-I showcase some of my work here
+I study Computer Vision at the University of Michigan - Ann Arbor. My current research topics include GANs, Transformers and modern CNNs. My aim is to create efficient models which can be easily deployed in real life. I have expertise in the full flow of DL application creation from R&D, POC, data creation/cleaning, testing and deployment. I have worked as a Deep Learning Engineer for almost 3 years before starting my Masters.
+
+
 <!--
 **bharshal/bharshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
